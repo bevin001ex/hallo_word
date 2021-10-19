@@ -1,2 +1,2 @@
 # hallo_word
-first step of programing
+the first step of programing
